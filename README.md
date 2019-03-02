@@ -6,5 +6,7 @@
 ### Brute-force
 |문제 번호|제목|github|
 |:-------:|:--:|:----:|
-|[2309](https://www.acmicpc.net/problem/2309)|일곱 난쟁이|[Brute-force/2309](https://github.com/DaeHwanGi/BAEKJOON_solution/tree/master/Brute-force/2309)
+|[2309](https://www.acmicpc.net/problem/2309)|일곱 난쟁이|[Brute-force/2309](https://github.com/DaeHwanGi/BAEKJOON_solution/tree/master/Brute-force/2309)|
+|[2231](https://www.acmicpc.net/problem/2231)|분해합|[Brute-force/2231](https://github.com/DaeHwanGi/BAEKJOON_solution/tree/master/Brute-force/2231)|
+
 
